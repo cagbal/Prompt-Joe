@@ -21,6 +21,12 @@ Dall-E 2
 
 -----------------------------------------
 
+### Güzel Promptlar ve Sonuçları
+
+[Güzel Promptlar](güzel_promptlar.md)
+
+-----------------------------------------
+
 ### Terimler
 
 #### Prompt engineering
