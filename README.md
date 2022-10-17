@@ -44,3 +44,4 @@ Yeni arkadaşlar için:
 
 ### Alakalı diğer Github repoları 
 - https://github.com/sw-yx/prompt-eng
+- https://github.com/thunlp/OpenPrompt
