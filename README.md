@@ -3,7 +3,7 @@ Türkçe Prompt Mühendisliği Notları
 
 -----------------------------------------
 
-##### Logo: 
+#### Logo: 
 
 <img src="resimler/dall-e-logo.png" width="200" center />
 
