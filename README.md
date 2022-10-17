@@ -33,6 +33,12 @@ Doğal dil işleme modellerinin bazıları girdi olarak verilen yazı ile çalı
 
 -----------------------------------------
 
+### Katkıda bulunanlar
+
+![Katkıda bulunanlar](https://contrib.rocks/image?repo=cagbal/Prompt-Joe)
+
+-----------------------------------------
+
 ### Katkıda bulunmak mı istiyorsunuz? 
 Bulunun :) Hatta çok sevinirim. Birlikte Türkçe yapay zeka kaynaklarını geliştirelim.
 
