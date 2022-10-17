@@ -3,6 +3,24 @@ Türkçe Prompt Mühendisliği Notları
 
 -----------------------------------------
 
+Logo: 
+
+![Prompt-Joe Logo](resimler/dall-e-logo.png "Prompt-Joe Logo" 100x100)
+
+Logoyu oluşturan prompt:
+
+"A logo for an AI character, centered, white background"
+
+Referans: 
+
+[Reddit comment](https://www.reddit.com/r/midjourney/comments/wgbupb/comment/ipkar56/?utm_source=share&utm_medium=web2x&context=3) 
+
+Logoyu oluşturan model:
+
+Dall-E 2
+
+-----------------------------------------
+
 ### Terimler
 
 #### Prompt engineering
