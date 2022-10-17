@@ -28,6 +28,11 @@ Doğal dil işleme modellerinin bazıları girdi olarak verilen yazı ile çalı
 
 -----------------------------------------
 
+### İlgili makaleler
+- Kojima, Takeshi, et al. "Large Language Models are Zero-Shot Reasoners." arXiv preprint arXiv:2205.11916 (2022).
+
+-----------------------------------------
+
 ### Katkıda bulunmak mı istiyorsunuz? 
 Bulunun :) Hatta çok sevinirim. Birlikte Türkçe yapay zeka kaynaklarını geliştirelim.
 
