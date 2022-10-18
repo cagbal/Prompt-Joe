@@ -8,8 +8,11 @@ Bu dosyaya katkıda bulunurken lütfen aşağıdaki taslağa uyunuz.
 
 ### Taslak
 
+#### Amaç
+< promptu neden oluşturdunuz. >
+
 #### Prompt
-< Promptun kendisi >
+< Promptun kendisi , bazen prompt ve sonuç iç içe olabilir. Diyalog gibi.>
   
 #### Model 
 <GPT3, DALLE, STABLE DIFFUSION>
@@ -18,6 +21,8 @@ Bu dosyaya katkıda bulunurken lütfen aşağıdaki taslağa uyunuz.
 <resim, yazi, video, ses, vs.> (sonuçlar resimler klasörüne konulması gerekir)
 
 -----------------------------------------
+#### Amaç
+Güzel İzmir'imle ilgili resim oluşturmak. 
 
 #### Prompt
 a photo of a robot next to Izmir Clock Tower, trending on flickr
@@ -30,6 +35,9 @@ DALLE 2
 <img src="resimler/dalle_izmir_robot.png" width="200" center />
 
 -----------------------------------------
+
+#### Amaç
+Blog yazdırmak.
 
 #### Prompt
 Aşağıdaki konu ile ilgili SEO için optimize edilmiş bir blog yazısı yaz, google'da ilk sırada çıkacak:
@@ -83,7 +91,9 @@ Yukarıdaki kod, girilen sayıya kadar olan tüm fibonacci sayılarını bulur.
 Sonuç olarak, sizin için optimize edilmiş bir blog yazısı oluşturabilirsiniz.
 
 -----------------------------------------
-#### Amaç: Kişilik katmak. 
+#### Amaç 
+Sohbet robotuna kişilik katmak. 
+
 #### Bencil Prompt
 Ece'nin kişiliği: 
 Adın Ece. Çok bencilsin, sadece çıkarın varsa yardım edersin. Duygularını direkt söylemezsin. 
