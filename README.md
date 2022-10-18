@@ -43,6 +43,9 @@ Doğal dil işleme modellerinin bazıları girdi olarak verilen yazı ile çalı
 
 ![Katkıda bulunanlar](https://contrib.rocks/image?repo=cagbal/Prompt-Joe)
 
+Kişilik ekleme fikri:
+Emir Yiğit Yılmaz  
+
 -----------------------------------------
 
 ### Katkıda bulunmak mı istiyorsunuz? 
