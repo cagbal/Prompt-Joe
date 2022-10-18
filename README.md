@@ -55,9 +55,15 @@ Yeni arkadaşlar için:
 1. İlk önce forklayın. 
 2. Eklemek istediğiniz özellik için yeni bir branch oluşturun ve branch'in adı da açıklayıcı olsun. 
 3. Daha sonra pull request gönderin. 
+
 -----------------------------------------
 
-### Alakalı diğer Github repoları 
+### İlgili diğer Github repoları 
 - https://github.com/sw-yx/prompt-eng
 - https://github.com/thunlp/OpenPrompt
 - https://github.com/thunlp/PromptPapers
+
+-----------------------------------------
+
+### İlgili Websiteleri
+- https://beta.dreamstudio.ai/prompt-guide
