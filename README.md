@@ -39,6 +39,34 @@ Doğal dil işleme modellerinin bazıları girdi olarak verilen yazı ile çalı
 
 -----------------------------------------
 
+### Resim oluşturma promptları - Dalle, Stable Diffusion gibi
+
+baştan şunu söyleyeyim. Prompt yazmanın bilinen optimal yolu yok. Suboptimal bir sürü çözüm var. O yüzden deneme yapmalısınız. Değişik promptları birleştirmekten korkmayın. 
+
+1. Öncelikle neyin resmini istediğinize karar vermelisiniz. Bu modeller objeler arası bağlantıları iyi kurabiliyorlar o yüzden at süren astronot falan gibi garip şeyler istemekten çekinmeyin. Örnek "a rock on a fish". 
+
+2. Daha sonra bunu nasıl bir senaryoda istiyorsunuz. Mesela bu fotorealistik bir fotoğraf mı olacak? O zaman "a photo of a rock on a fish". Ya da işte a 3D render halini istiyorsanız "a 3D render of a rock on a fish".
+
+3. Objeleri tanımlayın. İşte kaya mesela kırmızı olsun. Balık da yeşil. "a 3D render of a red rock on a green fish".
+
+4. Arka planı tanımlayın. Balık olduğu için mesela mavi diyelim. "a 3D render of a red rock on a green fish on a blue background".
+
+5. Artist veya stil tanımlayın. Ben pek maalesef iyi bilmiyorum ama bunu istediğiniz bir artistten çizdirtebilirsiniz. "a 3D render of a red rock on a green fish on a blue background by Salvador Dali" gibi. 
+
+6. Bazı insanlar ünlü sitelerde trending olduğunu yazdıklarında güzel sonuç aldıklarını söylemişler. Mesela artstation diye bir site var. Sona onu ekleyebilirsiniz. Burada tavsiyem realistik bir foto yaparken foto sitelerini yazmanız. Çizim yaparken çizim. "a 3D render of a red rock on a green fish on a blue background by Salvador Dali, trending on Artstation". Ama bu anlamsız olmaya başladı işte. Çünkü 3D render istiyoruz, ona uygun site biliyorsanız onu yazın.
+
+7. En önemlisi her şeyi karıştırın ve tekrar deneyin. Bu söylediklerimin hepsini virgülden sonra da koyabilirsiniz. Örneğin, "a 3D render of a red rock on a green fish, on ablue background, Salvador Dali style, trending on Artstation" gibi. İnsanlar satırlarca prompt üretiyorlar. Denemekten korkmayın.
+
+Sonuç: 
+
+<img src="resimler/red_rock.png" width="200" center />
+
+Oluşturan prompt: 
+
+a 3D render of a red rock on a green fish on a blue background by Salvador Dali, trending on Artstation
+
+-----------------------------------------
+
 ### Katkıda bulunanlar
 
 ![Katkıda bulunanlar](https://contrib.rocks/image?repo=cagbal/Prompt-Joe)
