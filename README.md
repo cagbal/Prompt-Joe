@@ -65,6 +65,10 @@ Oluşturan prompt:
 
 a 3D render of a red rock on a green fish on a blue background by Salvador Dali, trending on Artstation
 
+Problem:
+
+Gördüğünüz gibi objelerin renklerini iyi anlayamamış. Demek ki birşeyleri değiştirmemiz gerekiyor, artık orası sizin denemelerinize kalıyor.
+
 -----------------------------------------
 
 ### Katkıda bulunanlar
