@@ -100,3 +100,4 @@ Yeni arkadaşlar için:
 ### İlgili Websiteleri
 - https://beta.dreamstudio.ai/prompt-guide
 - https://www.inovex.de/de/blog/prompt-engineering-guide/
+- https://lexica.art/
