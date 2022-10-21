@@ -101,3 +101,4 @@ Yeni arkadaşlar için:
 - https://beta.dreamstudio.ai/prompt-guide
 - https://www.inovex.de/de/blog/prompt-engineering-guide/
 - https://lexica.art/
+- https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion # GPT 2 lexica art üzerinde prompt üretmek için eğitilmiş 
