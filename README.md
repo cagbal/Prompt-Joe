@@ -32,6 +32,12 @@ Dall-E 2
 #### Prompt engineering
 Doğal dil işleme modellerinin bazıları girdi olarak verilen yazı ile çalışırlar ve bu yazıyı kullanarak görevleri yerine getirirler. Elbette, bu girdiyi kullandıkları için performansları bu yazının kalitesine bağlıdır. İşte bu yazıyı hazırlamaya prompt engineering denir.  
 
+#### Zero shot learning 
+Makine öğrenmesinde bir modelin belirli bir görev için eğitilmemesine rağmen o belirli görevi yapabilmesine denir. Biraz daha detay verirsek eğitim sürecinde olmayan görevleri test zamanında yapabilmeye olanak sağlar. Örnek, bir model düşünün saat markalarını resimlerden sınıflandırabiliyor. Eğitim süresince sadece Patek Phillipe, Rolex ve Omega ile eğitmişsiniz. Fakat test süresince o bu modellerin dışında JLC'yi de tanıyabiliyor. 
+
+#### Few shot learning 
+Zero shot learningin aynısı yalnızca 1-2 örnek ile görevi yapabiliyor. 
+
 -----------------------------------------
 
 ### İlgili makaleler
