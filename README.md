@@ -108,3 +108,4 @@ Yeni arkadaşlar için:
 - https://www.inovex.de/de/blog/prompt-engineering-guide/
 - https://lexica.art/
 - https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion # GPT 2 lexica art üzerinde prompt üretmek için eğitilmiş 
+- https://huggingface.co/datasets/poloclub/diffusiondb # Stable Diffusion prompt ve resim ikilileri ve parametreleri
