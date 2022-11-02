@@ -100,6 +100,7 @@ Yeni arkadaşlar için:
 - https://github.com/sw-yx/prompt-eng
 - https://github.com/thunlp/OpenPrompt
 - https://github.com/thunlp/PromptPapers
+- https://github.com/poloclub/diffusiondb
 
 -----------------------------------------
 
