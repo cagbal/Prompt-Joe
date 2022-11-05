@@ -38,6 +38,9 @@ Makine öğrenmesinde bir modelin belirli bir görev için eğitilmemesine rağm
 #### Few shot learning 
 Zero shot learningin aynısı yalnızca 1-2 örnek ile görevi yapabiliyor. 
 
+#### LLM (Large Language Model)
+Makale okurken sıkça karşılaştığımız terimdir. Büyük dil modelleri demektir. Kendi yorumum şu şekilde o kadar büyük modeller ve o kadar uzun süre eğitiliyorlar ki normal bir kişinin veya küçük bir şirketin bütçesinin çok üzerlerine mal oluyorlar. Tabi bu kadar eğitilmelerinden gelen bazı zero shot ve one shot yetenekleri oluyor. Bir kere eğitildikten sonra çalıştırması (inference) görece kolay. 
+
 -----------------------------------------
 
 ### İlgili makaleler
