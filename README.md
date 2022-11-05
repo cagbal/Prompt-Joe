@@ -42,6 +42,9 @@ Zero shot learningin aynısı yalnızca 1-2 örnek ile görevi yapabiliyor.
 
 ### İlgili makaleler
 - Kojima, Takeshi, et al. "Large Language Models are Zero-Shot Reasoners." arXiv preprint arXiv:2205.11916 (2022).
+- Yongchao, Zhou et al. "Large Language Models Are Human-Level Prompt Engineers" arXiv preprint arXiv:2211.01910 (2022).
+Bu ikinci makale ilginç gerçekten. Bu benim de üstüne uğraştığım otomatik prompt oluşturma üzerine. Input-Output ikilileri vererek prompt oluşturmayı öğretiyorlar. Fakat kendi çalışmalarımdan da gördüğüm üzere LLM'lerin karmaşık taskları çözmede bariz zayıflıkları var. Burada gösterilen örnekler oldukça basit ama çalışıyor. Güzel kod ve colab oluşturmuşlar. Kaliteli iş. 
+
 
 -----------------------------------------
 
@@ -91,7 +94,7 @@ Bulunun :) Hatta çok sevinirim. Birlikte Türkçe yapay zeka kaynaklarını gel
 
 Yeni arkadaşlar için: 
 1. İlk önce forklayın. 
-2. Eklemek istediğiniz özellik için yeni bir branch oluşturun ve branch'in adı da açıklayıcı olsun. 
+2. Eklemek istediğiniz özellik için yeni bir branch oluşturun ve branch'in adı da açıklayıcı olsun.
 3. Daha sonra pull request gönderin. 
 
 -----------------------------------------
