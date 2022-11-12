@@ -117,3 +117,4 @@ Yeni arkadaşlar için:
 - https://huggingface.co/spaces/Gustavosta/MagicPrompt-Stable-Diffusion # GPT 2 lexica art üzerinde prompt üretmek için eğitilmiş 
 - https://huggingface.co/datasets/poloclub/diffusiondb # Stable Diffusion prompt ve resim ikilileri ve parametreleri
 - https://www.youtube.com/watch?v=bT8e1EV5-ic - Two Minute Papers'ın Stable Diffusion ve ona yazılan prompotlar hakkındaki güzel videosu
+- https://www.youtube.com/watch?v=5ef83Wljm-M - CMU'dan çok kaliteli prompt videosu
