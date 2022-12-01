@@ -119,3 +119,4 @@ Yeni arkadaşlar için:
 - https://www.youtube.com/watch?v=bT8e1EV5-ic - Two Minute Papers'ın Stable Diffusion ve ona yazılan prompotlar hakkındaki güzel videosu
 - https://www.youtube.com/watch?v=5ef83Wljm-M - CMU'dan çok kaliteli prompt videosu
 - https://eksisozluk.com/yazarlarin-yapay-zeka-sanat-eserleri--7481444
+- https://prompthero.com/
