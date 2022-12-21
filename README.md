@@ -83,6 +83,12 @@ Gördüğünüz gibi objelerin renklerini iyi anlayamamış. Demek ki birşeyler
 
 -----------------------------------------
 
+### Veri setleri 
+
+- https://huggingface.co/datasets/fka/awesome-chatgpt-prompts - ChatGPT promptları bulabileceğiniz bir veri seti
+
+-----------------------------------------
+
 ### Katkıda bulunanlar
 
 ![Katkıda bulunanlar](https://contrib.rocks/image?repo=cagbal/Prompt-Joe)
